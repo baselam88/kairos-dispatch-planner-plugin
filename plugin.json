@@ -1,0 +1,17 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "author": {
+    "name": "KAIROS AI Systems"
+  },
+  "description": "Clusters a day's jobs by area and sequence to cut windshield time for mobile crews (labelled estimate 5-8 h/week for 3 crews).",
+  "keywords": [
+    "dispatch",
+    "kairos",
+    "planner",
+    "small business"
+  ],
+  "license": "MIT",
+  "name": "kairos-dispatch-planner",
+  "repository": "https://github.com/baselam88/kairos-dispatch-planner-plugin",
+  "version": "0.1.0"
+}
